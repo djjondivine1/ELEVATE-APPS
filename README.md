@@ -6,7 +6,7 @@ Free desktop apps and lesson quizzes from [Elevate DJ Academy](https://www.skool
 
 | App | What it does | Download |
 | --- | --- | --- |
-| Elevate Email Studio 1.7.2 | Branded email templates for your DJ business | [Mac](https://github.com/djjondivine1/ELEVATE-APPS/releases/download/email-studio-v1.7.2/Elevate-Email-Studio-1.7.2-Mac.dmg) · [Windows](https://github.com/djjondivine1/ELEVATE-APPS/releases/download/email-studio-v1.7.2/Elevate-Email-Studio-1.7.2-Windows-Setup.exe) |
+| Elevate Email Studio 1.7.4 | Branded email templates for your DJ business | [Mac](https://github.com/djjondivine1/ELEVATE-APPS/releases/download/email-studio-v1.7.4/Elevate-Email-Studio-1.7.4-Mac.dmg) · [Windows](https://github.com/djjondivine1/ELEVATE-APPS/releases/download/email-studio-v1.7.4/Elevate-Email-Studio-1.7.4-Windows-Setup.exe) |
 | Elevate Timeline Studio 1.2.0 | Planning forms into branded day-of timelines | [Mac](https://github.com/djjondivine1/ELEVATE-APPS/releases/download/timeline-studio-v1.2.0/Elevate-Timeline-Studio-1.2.0-Mac.dmg) · [Windows](https://github.com/djjondivine1/ELEVATE-APPS/releases/download/timeline-studio-v1.2.0/Elevate-Timeline-Studio-1.2.0-Windows-Setup.exe) |
 | Elevate MP3 Editor 1.8.0 | Clean up your music files' Title, Artist, Year and Genre | [Mac (Apple chip)](https://github.com/djjondivine1/ELEVATE-APPS/releases/download/mp3-editor-v1.8.0/Elevate-MP3-Editor-1.8.0-Mac-Apple-Chip.dmg) · [Mac (Intel)](https://github.com/djjondivine1/ELEVATE-APPS/releases/download/mp3-editor-v1.8.0/Elevate-MP3-Editor-1.8.0-Mac-Intel.dmg) · [Windows](https://github.com/djjondivine1/ELEVATE-APPS/releases/download/mp3-editor-v1.8.0/Elevate-MP3-Editor-1.8.0-Windows-Setup.exe) |
 
